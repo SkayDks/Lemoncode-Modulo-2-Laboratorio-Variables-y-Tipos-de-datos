@@ -29,3 +29,8 @@ body {
   padding-bottom: 10px;
   border-bottom: 1px rgb(122, 122, 122) solid;
 }
+
+.stars > span {
+  font-size: large;
+  color: goldenrod;
+}
